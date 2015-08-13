@@ -10,7 +10,7 @@
  *
  * @usage
  * ```html
- * <ion-side-menu
+ * <ion-side-menu>
  *   side="left"
  *   width="myWidthValue + 20"
  *   is-enabled="shouldLeftSideMenuBeEnabled()">
